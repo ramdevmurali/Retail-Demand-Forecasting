@@ -18,7 +18,7 @@
 ## 🛠️ Engineering Pipeline
 The solution required a robust data processing pipeline to handle real-world noise (missing bank holiday flags, discontinuous sales data).
 
-![Data Pipeline](assets/data_pipeline_flowchart.png)
+![Data Pipeline](data_pipeline_flowchart.png)
 
 ### Tech Stack
 - **Languages:** R, Python
@@ -40,7 +40,7 @@ We benchmarked three distinct approaches to find the production-optimal model:
 *   **Feature Importance:** As visualized below, external factors like *Temperature* and *Store Opening Hours* were critical predictors in the XGBoost model.
 *   **Seasonality:** The ARIMA model successfully identified and corrected for weekly cyclic buying patterns.
 
-![Feature Importance](assets/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ## 📄 Full Documentation
 For a deep dive into the mathematical framework and statistical validation, please view the full report:

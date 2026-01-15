@@ -1,7 +1,7 @@
 # 📈 Retail Demand Forecasting Engine
 **Inventory optimization for in-store bakeries using Time-Series Analysis (ARIMA) and XGBoost.**
 
-![Model Fit Visualization](assets/forecast_visualization.png)
+![Model Fit Visualization](forecast_visualization.png)
 
 ## ⚠️ Technical Archive Note
 > **Note:** This project involves commercial sales data from **Co-op Food**. Due to Non-Disclosure Agreements (NDA) and data privacy restrictions, the raw source code and datasets cannot be published.
